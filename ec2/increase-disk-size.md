@@ -3,6 +3,7 @@ Step 1: Open ec2 service and select the volume id you want to increase click on 
 
 Step 2: Increase the size and modify you can see Size is updated.
 <b>![](./images/disk-resize/3.PNG)
+
 <b>![](./images/disk-resize/4.PNG)
 
 Step 3: Check the EBS Volume is updated
