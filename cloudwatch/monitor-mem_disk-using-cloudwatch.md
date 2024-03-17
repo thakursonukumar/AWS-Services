@@ -74,6 +74,7 @@ sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-ctl -m ec2 -a 
 <br>![](./images/13.PNG)
 
 <h2>Open Cloudwatch and select Alarm and Create Alarm</h2>
+
 Select CWagent
 <br>![](./images/14.PNG)
 
