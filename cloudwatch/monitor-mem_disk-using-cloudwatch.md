@@ -3,6 +3,7 @@ step 1: Open SSM service Select Parameter Store and Create parameter
 
 <h2>Create Parameter</h2>
 Give any name to your parameter then follow the step in the SS
+
 <br>![](./images/2.PNG)
 
 In value field past the below json.
@@ -32,6 +33,7 @@ In value field past the below json.
 
 <h2>Create IAM Role</h2>
 Create role
+
 <br>![](./images/5.PNG)
 
 Select AWS service
@@ -50,6 +52,7 @@ Create Role
 <br>![](./images/10.PNG)
 
 <h2>Attach role to the instance which you want to monitor disk and memory</h2>
+
 <br>![](./images/4.PNG)
 
 Select the role name which we recently created and update
