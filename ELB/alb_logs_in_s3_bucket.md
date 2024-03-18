@@ -3,7 +3,9 @@ create s3 bucket and attach this permission to the bucket.
 
 <br>![](./images/1.PNG)
 
-Number is your region id this is for a south Aferica you can search for your region
+Number is your region id this is for a south Aferica you can search for your region in below link under "Regions available before August 2022" section
+https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html
+
 arn:aws:s3:::logs-publicalb-qa this is you bucket arn
 
 Step 2:
