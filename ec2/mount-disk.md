@@ -65,6 +65,5 @@ df -h (now the disk is gone)
 
 so to automount disk to /mtn/elk_data
 
-command sudo mount -a (this will check fstab file and attach all the disk to their respective directory)
-
+command: sudo mount -a (this will check fstab file and attach all the disk to their respective directory)
 <br>![](./images/disk-resize/12.PNG)
