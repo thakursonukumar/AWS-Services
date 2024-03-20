@@ -61,9 +61,11 @@ command: sudo /etc/fstab
 unmount the volume from the directory
 command: sudo umount /mtn/elk_data(directory name to which you attached the volume)
 
+<br>![](./images/disk-resize/12.PNG)
+
 df -h (now the disk is gone)
 
 so to automount disk to /mtn/elk_data
 
 command: sudo mount -a (this will check fstab file and attach all the disk to their respective directory)
-<br>![](./images/disk-resize/12.PNG)
+
